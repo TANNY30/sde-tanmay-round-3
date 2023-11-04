@@ -2,4 +2,3 @@ app.py
 venv/
 *.env
 Dockerfile
-requirements.txt
